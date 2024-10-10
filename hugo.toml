@@ -1,0 +1,4 @@
+baseURL = 'http://localhost/'
+languageCode = 'ru'
+title = 'Мои очки'
+theme = 'ananke'

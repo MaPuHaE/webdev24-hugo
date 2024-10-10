@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Мои очки</title>
+    <link>http://localhost/posts/</link>
+    <description>Recent content in Posts on Мои очки</description>
+    <generator>Hugo</generator>
+    <language>ru</language>
+    <lastBuildDate>Wed, 09 Oct 2024 21:06:52 +0300</lastBuildDate>
+    <atom:link href="http://localhost/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>http://localhost/posts/my-first-post/</link>
+      <pubDate>Wed, 09 Oct 2024 21:06:52 +0300</pubDate>
+      <guid>http://localhost/posts/my-first-post/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;Очки – это как окно в мир, только с ними все становится яснее и красивее.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>ОЧки</title>
+      <link>http://localhost/posts/ochki/</link>
+      <pubDate>Wed, 09 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost/posts/ochki/</guid>
+      <description>&lt;h2 id=&#34;ооочччкккиии&#34;&gt;ОооЧчЧккКииИ&lt;/h2&gt;&#xA;&lt;p&gt;Ну вот, опять я потерял очки! Это такая жизнь с очками – то их носишь, то их теряешь, то опять ищешь!&lt;/p&gt;&#xA;&lt;p&gt;И как только нашел, так сразу опять теряешь! Это точно как вечный круг – искать, находить, терять, искать опять&amp;hellip;&lt;/p&gt;&#xA;&lt;p&gt;Наверное, уже пора привязать их к голове, чтобы не потерять в самый неподходящий момент!&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://sun9-47.userapi.com/impg/Vfvp_SWghk-pZfh7S_MPZYhd9ep010YZwy5yaA/uIRluq7wzxg.jpg?size=1103x1156&amp;amp;quality=95&amp;amp;sign=db62f39d8835f337a2abb9752ba93718&amp;amp;type=album&#34; alt=&#34;оЧКи&#34;&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
